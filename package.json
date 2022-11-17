@@ -5,6 +5,7 @@
     "node": "16.x",
     "npm": "8.x"
   },
+  "homepage":"https://oswaldoguzman2022.github.io/petshoponline",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.9.1",
@@ -33,7 +34,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
