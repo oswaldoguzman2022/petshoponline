@@ -1,0 +1,36 @@
+nav{
+    background: var(--color-primary);
+    width: max-content;
+    display: block;
+    padding: 0.7rem 1.7rem;
+    z-index: 2;
+    position: fixed;
+    left: 50%;
+    transform: translate(-50%);
+    bottom: 2rem;
+    display: flex;
+    gap:0.8rem;
+    border-radius: 3rem;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+nav a{
+    background: #fff;
+    padding: 0.9rem;
+    border-radius: 50%;
+    display: flex;
+    color: var(--color-primary-variant);
+    font-size: 1.1rem;
+}
+
+nav a:hover{
+    background: var(--color-primary-variant);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.icoproduct{
+    background: var(--color-primary-variant);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    color: var(--color-white);
+    
+}
