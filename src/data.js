@@ -42,7 +42,7 @@ export const categories = [
     }
 ]
 
-export const popularProducts = [
+/*export const popularProducts = [
     {
         id: 1,
         img: "https://res.cloudinary.com/dvolq5gen/image/upload/v1667765175/Perfume_Cachorros_hrzyrk.png"
@@ -76,5 +76,5 @@ export const popularProducts = [
         img: "https://res.cloudinary.com/dvolq5gen/image/upload/v1667765154/arnes_perro_peque%C3%B1os_kye29k.png"
     },
 ]
-
+*/
 
