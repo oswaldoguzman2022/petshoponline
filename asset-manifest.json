@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/petshoponline/static/css/main.655dc840.css",
+    "main.js": "/petshoponline/static/js/main.6ab66465.js",
+    "static/media/8.svg": "/petshoponline/static/media/8.8fddf0e1096300b0dc8d0faebf8849a0.svg",
+    "index.html": "/petshoponline/index.html",
+    "main.655dc840.css.map": "/petshoponline/static/css/main.655dc840.css.map",
+    "main.6ab66465.js.map": "/petshoponline/static/js/main.6ab66465.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.655dc840.css",
+    "static/js/main.6ab66465.js"
+  ]
+}
