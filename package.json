@@ -5,7 +5,7 @@
     "node": "16.x",
     "npm": "8.x"
   },
-  "homepage":"https://oswaldoguzman2022.github.io/petshoponline",
+  "homepage": "https://oswaldoguzman2022.github.io/petshoponline",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.9.1",
@@ -18,6 +18,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.1.3",
+    "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-addons-update": "^15.6.3",
     "react-dom": "^18.2.0",
